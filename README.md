@@ -16,59 +16,76 @@ I’m a passionate Full Stack Developer dedicated to turning ideas into impactfu
   <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" style="max-width: 100%; height: auto; max-height: 25px;">
 </a>
 </div>
+---
+
+## 🛠 Contribution Graph
+<div align="center">
+  <!-- Contribution Graph (line graph) -->
+  <a href="https://github.com/ruabo2004">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Babychandoi&theme=tokyo-night&hide_border=true&area=true&custom_title=Ho%C3%A0ng%20Qu%E1%BB%91c%20Vi%E1%BB%87t%27s%20Contribution%20Graph"
+      alt="Hoang Quoc Viet Contribution Graph"
+    />
+  </a>
+</div>
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Backend
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="max-width: 100%;">
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
 
 ### Databases
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" style="max-width: 100%;">
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
 
 ### Frontend
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="max-width: 100%;">
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
 ### Tools & Others
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" style="max-width: 100%;">
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+</p>
 
 ---
 
 ## 🛠 Stats
 
-<div align="center">
-  <a href="https://streak-stats.demolab.com/?user=Ruabo2004&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3">
-  <img src="https://streak-stats.demolab.com?user=Ruabo2004&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" style="max-width: 100%; height: auto; max-height: 150px;">
-</a>
-  <a href="https://github-readme-stats.vercel.app/api?username=Ruabo2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruabo2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" style="max-width: 100%; height: auto; max-height: 150px;">
-</a>
- <a href="https://github-readme-stats.vercel.app/api/top-langs?username=Ruabo2004&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dracula&hide_border=false">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ruabo2004&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" style="max-width: 100%; height: auto; max-height: 150px;">
-</a>
-</div>
+| 🔥 Streak | 📊 Stats |
+|-----------|----------|
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruabo2004&theme=dracula&hide_border=true&v=4) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruabo2004&show_icons=true&theme=dracula) |
+
+| 🧠 Top Languages |
+|--------------------|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ruabo2004&layout=compact&theme=dracula&card_width=1000) |
+
+---
 
 ---
 
 ## 🏆 Trophies
 
-<div align="center">
- <a href="https://github-profile-trophy.vercel.app?username=Ruabo2004&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4">
-  <img src="https://github-profile-trophy.vercel.app?username=Ruabo2004&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" style="max-width: 100%; height: auto; max-height: 150px;">
-</a>
-</div>
+###
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruabo2004/ruabo2004/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruabo2004/ruabo2004/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ruabo2004/ruabo2004/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruabo2004/ruabo2004/output/dist/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruabo2004/ruabo2004/output/dist/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ruabo2004/ruabo2004/output/dist/pacman-contribution-graph.svg">
 </picture>
+
+###
 
 _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 ### 🗓️ Contribution Graph

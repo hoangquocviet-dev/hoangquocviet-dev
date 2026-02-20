@@ -64,11 +64,11 @@ I’m a passionate Full Stack Developer dedicated to turning ideas into impactfu
 ## 📈 Stats
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ruabo2004&theme=dracula&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api?username=ruabo2004&show_icons=true&theme=dracula&hide_border=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ruabo2004&show_icons=true&theme=dracula&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruabo2004&layout=compact&theme=dracula&hide_border=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=ruabo2004&layout=compact&theme=dracula&hide_border=true"/>
 </p>
 
 ---

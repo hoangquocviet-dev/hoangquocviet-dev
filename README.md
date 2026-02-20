@@ -62,14 +62,11 @@ I’m a passionate Full Stack Developer dedicated to turning ideas into impactfu
 ---
 
 ## 📊 Stats
-
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=ruabo2004&theme=dark&hide_border=true" height="165"/>
 <img src="https://stats.dooboo.io/api/github-stats-advanced?login=ruabo2004" height="165"/>
 <br/><br/>
-<div style="width:330px">
-<img src="https://stats.dooboo.io/api/github-trophies?login=ruabo2004" width="330"/>
-</div>
+<img src="https://stats.dooboo.io/api/github-trophies?login=ruabo2004" width="80%"/>
 </div>
 ---
 

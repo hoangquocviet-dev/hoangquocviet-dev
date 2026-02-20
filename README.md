@@ -61,16 +61,21 @@ I’m a passionate Full Stack Developer dedicated to turning ideas into impactfu
 
 ---
 
-## 📈 Stats
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ruabo2004&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=ruabo2004"/>
-</p>
+## 📊 Stats
 
-<p align="center">
-<img src="https://stats.dooboo.io/api/github-trophies?login=ruabo2004"/>
-</p>
+<div align="center">
 
+<img height="170" src="https://streak-stats.demolab.com?user=ruabo2004&theme=dark&hide_border=true"/>
+
+<br/>
+
+<img height="170" src="https://stats.dooboo.io/api/github-stats-advanced?login=ruabo2004"/>
+
+<br/>
+
+<img height="170" src="https://stats.dooboo.io/api/github-trophies?login=ruabo2004"/>
+
+</div>
 ---
 
 ## 🏆 Contribution Game

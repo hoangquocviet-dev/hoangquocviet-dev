@@ -68,7 +68,6 @@ I’m a passionate Full Stack Developer dedicated to turning ideas into impactfu
 <br/><br/>
 <img src="https://stats.dooboo.io/api/github-trophies?login=ruabo2004" width="80%"/>
 </div>
----
 
 ## 🏆 Contribution Game
 

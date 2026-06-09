@@ -1,4 +1,4 @@
-# hoangquocvet-dev
+# hoangquocviet-dev
 **`Fullstack Developer`**
 
 I’m a passionate Full Stack Developer dedicated to turning ideas into impactful, real-world solutions through clean and efficient code. I specialize in modern web technologies and enjoy creating scalable, user-friendly applications that deliver great user experiences.
@@ -24,8 +24,8 @@ I’m a passionate Full Stack Developer dedicated to turning ideas into impactfu
 
 ## 📊 Contribution Graph
 <p align="center">
-<a href="https://github.com/hoangquocvet-dev">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangquocvet-dev&theme=tokyo-night&hide_border=true&area=true"/>
+<a href="https://github.com/hoangquocviet-dev">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangquocviet-dev&theme=tokyo-night&hide_border=true&area=true"/>
 </a>
 </p>
 
@@ -63,18 +63,18 @@ I’m a passionate Full Stack Developer dedicated to turning ideas into impactfu
 
 ## 📊 Stats
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=hoangquocvet-dev&theme=dark&hide_border=true" height="165"/>
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=hoangquocvet-dev" height="165"/>
+<img src="https://streak-stats.demolab.com?user=hoangquocviet-dev&theme=dark&hide_border=true" height="165"/>
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=hoangquocviet-dev" height="165"/>
 <br/><br/>
-<img src="https://stats.dooboo.io/api/github-trophies?login=hoangquocvet-dev" width="80%"/>
+<img src="https://stats.dooboo.io/api/github-trophies?login=hoangquocviet-dev" width="80%"/>
 </div>
 
 ## 🏆 Contribution Game
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangquocvet-dev/hoangquocvet-dev/output/dist/pacman-contribution-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangquocvet-dev/hoangquocvet-dev/output/dist/pacman-contribution-graph.svg">
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangquocvet-dev/hoangquocvet-dev/output/dist/pacman-contribution-graph.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangquocviet-dev/hoangquocviet-dev/output/dist/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangquocviet-dev/hoangquocviet-dev/output/dist/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangquocviet-dev/hoangquocviet-dev/output/dist/pacman-contribution-graph.svg">
 </picture>
 
 ---

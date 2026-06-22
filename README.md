@@ -6,7 +6,7 @@ I’m a passionate Full Stack Developer dedicated to turning ideas into impactfu
 - 🌱 Currently working on **C# + Angular projects**
 - 📚 Currently learning **Angular 2+**
 - 💬 Ask me about **C#**, **Angular**, **SQL Server**
-- 📫 Reach me at: **iezreal.com@gmail.com**
+- 📫 Reach me at: **hoangquocviet.dev@gmail.com**
 
 ---
 

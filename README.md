@@ -73,9 +73,10 @@ I’m a passionate Full Stack Developer dedicated to turning ideas into impactfu
 ## 📊 Stats
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=hoangquocviet-dev&theme=dark&hide_border=true" height="165"/>
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=hoangquocviet-dev" height="165"/>
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=hoangquocviet-dev&v=2" height="165"/>
 <br/><br/>
-<img src="https://github-profile-trophies.vercel.app/?username=hoangquocviet-dev&theme=tokyo-night" width="100%"/>
+<img src="https://github-profile-trophies.vercel.app/?username=ho
+  angquocviet-dev&theme=tokyo-night" width="100%"/>
 </div>
 
 ## 🏆 Contribution Game

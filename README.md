@@ -28,11 +28,9 @@ I’m a passionate Full Stack Developer dedicated to turning ideas into impactfu
 
 ---
 
-## 📊 Contribution Graph
+## 🏆 GitHub Achievements & Trophies
 <p align="center">
-<a href="https://github.com/hoangquocviet-dev">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangquocviet-dev&theme=tokyo-night&hide_border=true&area=true"/>
-</a>
+  <img src="https://github-profile-trophies.vercel.app/?username=hoangquocviet-dev&theme=tokyo-night&row=1&column=7&margin-w=10" width="100%"/>
 </p>
 
 ---
@@ -69,16 +67,21 @@ I’m a passionate Full Stack Developer dedicated to turning ideas into impactfu
 
 ---
 
-## 📊 Stats
+## 📊 Stats & Streak
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=hoangquocviet-dev&theme=dark&hide_border=true" height="165"/>
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=hoangquocviet-dev&v=2" height="165"/>
-<br/><br/>
-<img src="https://github-profile-trophies.vercel.app/?username=ho
-  angquocviet-dev&theme=tokyo-night" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=hoangquocviet-dev&theme=tokyo-night&hide_border=true" height="175"/>
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=hoangquocviet-dev&v=2" height="175"/>
 </div>
 
-## 🏆 Contribution Game
+---
+
+## 📌 Featured Repositories
+- 🏛️ **[csharp-design-patterns](https://github.com/hoangquocviet-dev/csharp-design-patterns)**: Collection of 50 C# (.NET 8/9) Clean Architecture and GoF Design Patterns.
+- 🎯 **[daily-leetcode](https://github.com/hoangquocviet-dev/daily-leetcode)**: Daily LeetCode challenges solved in C# (.NET) with automated xUnit test suites.
+
+---
+
+## 🎮 Contribution Game
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangquocviet-dev/hoangquocviet-dev/output/dist/pacman-contribution-graph-dark.svg">

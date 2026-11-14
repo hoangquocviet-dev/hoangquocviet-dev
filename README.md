@@ -70,7 +70,7 @@ I’m a passionate Full Stack Developer dedicated to turning ideas into impactfu
 ## 📊 Stats & Streak
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hoangquocviet-dev&theme=tokyo-night&hide_border=true" height="175"/>
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=hoangquocviet-dev&startDate=live_202611130830" height="175"/>
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=hoangquocviet-dev&startDate=live_202611140830" height="175"/>
 </div>
 
 ---
